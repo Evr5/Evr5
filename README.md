@@ -1,3 +1,5 @@
+👋 Hi, I’m @Evr5
+
 # 💫 About Me:
 I'm currently learning Python, C++ and Java.
 
@@ -16,18 +18,4 @@ I'm currently learning Python, C++ and Java.
 [![](https://visitcount.itsvg.in/api?id=Evr5&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/ethanvanruys?country.x=BE&locale.x=fr_FR) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Evr5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Evr5/Evr5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/ethanvanruys?country.x=BE&locale.x=fr_FR)
