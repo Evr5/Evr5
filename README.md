@@ -4,8 +4,8 @@
 
 ## About Me:
 - 🎓 I’m currently learning **Python**, **C++**, and **Java**.
-- 🌟 Passionate about technology, programming, and creative media.
-- 🚀 Continuously exploring new tools and frameworks to expand my skill set.
+- ⚙️ Passionate about technology, 💻 programming, and 🎨 creative media.
+- 🔍 Continuously exploring new tools 🛠️ and frameworks 📚 to expand my skill set.
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Hobbies:
 - 🎮 Gaming on PC.
-- Video editing with Adobe Premiere Pro.
+- [🎬] Video editing with Adobe Premiere Pro. [🖥️]
 - 🚴‍♂️ Enjoying sports, especially cycling.
 
 ---
