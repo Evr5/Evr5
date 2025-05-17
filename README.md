@@ -8,8 +8,8 @@ A computer science student at the **Université Libre de Bruxelles (ULB)** who l
 
 ### 💻 My Workspace:
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-%23000000?style=flat&logo=arch-linux&logoColor=blue) 
-![AMD Ryzen 9 9900x](https://img.shields.io/badge/CPU-AMD%20Ryzen%205%203600-%23ED1C24?style=flat&logo=amd&logoColor=white) 
-![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5?style=flat&logo=ddr4&logoColor=white) 
+![AMD Ryzen 9 9900X](https://img.shields.io/badge/CPU-AMD%20Ryzen%209%209900X-%23ED1C24?style=flat&logo=amd&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-64GB%20DDR5%206000MHz%20CL30-%230071C5?style=flat&logo=corsair&logoColor=white)
 ![AMD Radeon RX 6750XT](https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%206750XT-%23FF0000?style=flat&logo=amd&logoColor=white)
 
 ### About Me:
