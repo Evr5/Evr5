@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi%20there!%20I'm%20Ethan%20👋&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=60&descAlign=62" alt="Ethan's Banner"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Ethan**, a passionate Computer Science student with a love for building elegant solutions and exploring new technologies.  
@@ -15,8 +13,6 @@ I enjoy working on open-source projects, learning new programming languages, and
 - 🌱 **Currently Learning:** {Your current learning topics}
 - 💬 **Ask me about:** Anything tech-related!
 - 📫 **How to reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -64,16 +60,12 @@ I enjoy working on open-source projects, learning new programming languages, and
   </span>
 </p>
 
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evr5&show_icons=true&theme=radical&hide_border=true" alt="Ethan's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evr5&theme=radical&hide_border=true" alt="Ethan's GitHub Streak" height="165"/>
 </p>
-
----
 
 ## 🚀 Projects
 
@@ -84,8 +76,6 @@ Here are some of my favorite personal and group projects:
 - **[cpp-make-cmake-template](https://github.com/Evr5/cpp-make-cmake-template):** A cross-platform C++ project template using CMake and Makefile. Build easily on Linux, Windows, and macOS, with also static linking support.
 
 > Explore more in my [repositories](https://github.com/Evr5?tab=repositories).
-
----
 
 ## 🌐 Connect with Me
 
@@ -103,8 +93,6 @@ Here are some of my favorite personal and group projects:
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+%F0%9F%92%BB" alt="Typing SVG" />
