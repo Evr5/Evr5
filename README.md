@@ -8,11 +8,11 @@
 Hi! I'm **Ethan**, a passionate Computer Science student with a love for building elegant solutions and exploring new technologies.  
 I enjoy working on open-source projects, learning new programming languages, and collaborating with others in the tech community.
 
-- 🎓 **Education:** Computer Science Student
+- 🎓 **Education:** Computer Science Student (at **ULB**)
 - 💡 **Interests:** Software Engineering, AI, Web Development, Open Source
-- 🌱 **Currently Learning:** {Your current learning topics}
+- 🌱 **Currently Learning:** C++, java, python
 - 💬 **Ask me about:** Anything tech-related!
-- 📫 **How to reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- 📫 **How to reach me:** [Email](mailto:ethanvr3@gmail.com) | [Instagram](https://instagram.com/ethan_vr_2005) | [LinkedIn](https://www.linkedin.com/in/ethan-van-ruyskensvelde-284987277/)
 
 ## 🛠️ Tech Stack
 
