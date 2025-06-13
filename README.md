@@ -63,8 +63,8 @@ I enjoy working on open-source projects, learning new programming languages, and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evr5&show_icons=true&theme=radical&hide_border=true" alt="Ethan's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evr5&theme=radical&hide_border=true" alt="Ethan's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Evr5&show_icons=true&theme=radical&hide_border=true" alt="Evr5's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evr5&theme=radical&hide_border=true" alt="Evr5's GitHub Streak" height="165"/>
 </p>
 
 ## 🚀 Projects
