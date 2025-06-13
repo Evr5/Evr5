@@ -94,6 +94,8 @@ Here are some of my favorite personal and group projects:
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
