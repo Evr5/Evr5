@@ -6,8 +6,6 @@ A computer science student at the **Université Libre de Bruxelles (ULB)** who l
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Evr5&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## 💻 My Workspace
 
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-%23000000?style=flat&logo=arch-linux&logoColor=blue) 
@@ -15,23 +13,17 @@ A computer science student at the **Université Libre de Bruxelles (ULB)** who l
 ![RAM](https://img.shields.io/badge/RAM-64GB%20DDR5%206000MHz%20CL30-%230071C5?style=flat&logo=corsair&logoColor=white)
 ![AMD Radeon RX 6750XT](https://img.shields.io/badge/GPU-AMD%20Radeon%20RX%206750XT-%23FF0000?style=flat&logo=amd&logoColor=white)
 
----
-
 ## 📄 About Me
 
 - 🎓 I’m currently learning **Python**, **C++**, and **Java**.
 - ⚙️ Passionate about technology, 💻 programming, and 🎨 creative media.
 - 🔍 Continuously exploring new tools 🛠️ and frameworks 📚 to expand my skill set.
 
----
-
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethan_vr_2005) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-van-ruyskensvelde-284987277/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ethan_EVR5)
-
----
 
 ## 💻 Tech Stack
 
@@ -67,22 +59,16 @@ A computer science student at the **Université Libre de Bruxelles (ULB)** who l
 ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
----
-
 ## 🎮 Hobbies
 
 - Gaming on PC.
 - Video editing with Adobe Premiere Pro.
 - 🚴‍♂️ Enjoying sports, especially cycling.
 
----
-
 ## 💰 Support Me
 
 If you enjoy my work, feel free to support me:  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ethanvanruys?country.x=BE&locale.x=fr_FR)
-
----
 
 ### ⭐️ From [Evr5](https://github.com/Evr5)
 
