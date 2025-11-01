@@ -64,7 +64,6 @@ I enjoy working on open-source projects, learning new programming languages, and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evr5&show_icons=true&theme=radical&hide_border=true" alt="Evr5's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evr5&theme=radical&hide_border=true" alt="Evr5's GitHub Streak" height="165"/>
 </p>
 
 ## 🚀 Projects
@@ -74,6 +73,7 @@ Here are some of my favorite personal and group projects:
 - **[Royal Blocks](https://github.com/ulb-info2-group5/Royal-Blocks):**  A multiplayer reinterpretation of the classic Tetris game, featuring both a graphical and a terminal-based client interface, along with a server that handles matches and communication between players.
 - **[Raquette Baballe](https://github.com/LuxySs-Evr5/RaquetteBaballe):** A game inspired by the classic Arkanoid game, developed in C++ using the Allegro graphics library.
 - **[cpp-make-cmake-template](https://github.com/Evr5/cpp-make-cmake-template):** A cross-platform C++ project template using CMake and Makefile. Build easily on Linux, Windows, and macOS, with also static linking support.
+- **[OSDetect](https://github.com/Evr5/OSDetect):** A cross-platform C++ library to detect the operating system and version (Windows / macOS / Linux).
 
 > Explore more in my [repositories](https://github.com/Evr5?tab=repositories).
 
