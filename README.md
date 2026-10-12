@@ -8,7 +8,7 @@
 Hi! I'm **Ethan**, a Master's student in **Computer Science (AI & Data Science)** studying at **ULB**.  
 I build cross-platform applications, explore system programming, and enjoy developing efficient open-source tools.
 
-- 🎓 **Education:** Master in Computer Science (Specialization: AI & Data Science) @ **ULB** | Bachelor in Computer Science (With Distinction)
+🎓 **Education:** Master's in Computer Science (Specialization: AI & Data Science) @ **ULB** | Bachelor's in Computer Science (With Distinction)
 - 💬 **Ask me about:** Anything tech-related!
 - 📫 **How to reach me:** [Email](mailto:ethanvr3@gmail.com) | [Instagram](https://instagram.com/ethan_vr_2005) | [LinkedIn](https://www.linkedin.com/in/ethan-van-ruyskensvelde-284987277/)
 
