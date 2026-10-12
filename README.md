@@ -5,12 +5,10 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Ethan**, a passionate Computer Science student with a love for building elegant solutions and exploring new technologies.  
-I enjoy working on open-source projects, learning new programming languages, and collaborating with others in the tech community.
+Hi! I'm **Ethan**, a Master's student in **Computer Science (AI & Data Science)** studying at **ULB**.  
+I build cross-platform applications, explore system programming, and enjoy developing efficient open-source tools.
 
-- 🎓 **Education:** Computer Science Student (at **ULB**)
-- 💡 **Interests:** Software Engineering, AI, Web Development, Open Source
-- 🌱 **Currently Learning:** C++, java, python
+- 🎓 **Education:** Master in Computer Science (Specialization: AI & Data Science) @ **ULB** | Bachelor in Computer Science (With Distinction)
 - 💬 **Ask me about:** Anything tech-related!
 - 📫 **How to reach me:** [Email](mailto:ethanvr3@gmail.com) | [Instagram](https://instagram.com/ethan_vr_2005) | [LinkedIn](https://www.linkedin.com/in/ethan-van-ruyskensvelde-284987277/)
 
@@ -18,24 +16,13 @@ I enjoy working on open-source projects, learning new programming languages, and
 
 ### 💻 Programming Languages
 
-#### 🖧 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Backend Languages" />
-</p>
-
-#### 🖥️ Frontend
-<p align="center">
-  <span style="display:inline-flex; align-items:center; gap:10px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" />
-  </span>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,bash&theme=dark" alt="Languages" /><br/><br/>
 </p>
 
 ### 📚 Frameworks & Libraries
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Shell" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=qt,postgres,mysql,sqlite,cmake,latex&theme=dark" alt="Frameworks and DB" /><br/><br/>
 </p>
 
 ### 🛠️ Tools
@@ -45,19 +32,7 @@ I enjoy working on open-source projects, learning new programming languages, and
 
 ### 💻 Platforms
 <p align="center">
-  <span style="display:inline-flex; align-items:center; gap:10px;">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
-  </span>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <span style="display:inline-flex; align-items:center; gap:10px;">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  </span>
+    <img src="https://skillicons.dev/icons?i=arch,linux,windows&theme=dark" alt="Tools and Platforms" />
 </p>
 
 ## 📈 GitHub Stats
